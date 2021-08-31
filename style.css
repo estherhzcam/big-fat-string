@@ -1,0 +1,30 @@
+
+header {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;;
+    margin: 1em
+}
+
+form {
+    margin: 1em;
+    display: grid;
+    grid-gap: 1em;
+}
+
+form input {
+    max-width: 60%;
+    height: 1.5em
+}
+/* select {
+    max-width: 300px
+} */
+
+button {
+    max-width:30%;
+
+}
+
+select {
+    max-width: 70%;
+    overflow: hidden;
+    height: 2em;
+}
